@@ -97,4 +97,4 @@ $ npm run build
 项目原仓库
 [diygod]（）
 
-MIT © [梦白](http://www.mcxhz.cn/bk/)
+MIT © [梦白](http://www.mcxhz.cn/)
