@@ -94,5 +94,7 @@ $ npm run build
 ```
 
 ## LICENSE
+项目原仓库
+[diygod]（）
 
-MIT © [梦白](http://mcxhz.cn/bk/)
+MIT © [梦白](http://www.mcxhz.cn/bk/)
