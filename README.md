@@ -12,7 +12,7 @@
 
 ## Introduction
 
-[Demo](http://diygod.github.io/OwO/demo)
+[Demo](https://blog.mcxhz.cn/5.html)
 
 Screenshot
 
